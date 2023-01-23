@@ -1,0 +1,64 @@
+{
+  "name": "Mainnetz Default List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 2016,
+      "address": "0xD7b21500dFf3D5578B21EBf7F25Be806087559a7",
+      "name": "WNETZ",
+      "symbol": "WNETZ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/wnetz.png"
+    },
+
+    {
+      "name": "USDT",
+      "address": "0x97196f8a0f69D8D4dF1585a345ACA96C2533C049",
+      "symbol": "mUSDT",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/usdt.png"
+    },
+
+
+    {
+      "name": "ETH",
+      "address": "0xfc7EE5A822f81206D66889f23a0C6270343B6dca",
+      "symbol": "mETH",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/eth.png"
+    },
+    {
+      "name": "BNB",
+      "address": "0x283b1c7a3dAA61bd58cac35a9951F23C94EC9BCb",
+      "symbol": "mBNB",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/bnb.png"
+    },
+
+    {
+      "name": "MATIC",
+      "address": "0x7358218533DBE14C399af25eF0E55374A1A2A146",
+      "symbol": "mMATIC",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/matic.png"
+    }
+    
+
+  ]
+}
