@@ -20,16 +20,25 @@
       "name": "WNETZ",
       "symbol": "WNETZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/wnetz.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xD7b21500dFf3D5578B21EBf7F25Be806087559a7.png"
+    },
+
+    {
+      "name": "USDC",
+      "address": "0x94703490aCA489f63FFB71C4d4Cc2E616bd8d14a",
+      "symbol": "mUSDC",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x94703490aCA489f63FFB71C4d4Cc2E616bd8d14a.png"
     },
 
     {
       "name": "USDT",
-      "address": "0x97196f8a0f69D8D4dF1585a345ACA96C2533C049",
+      "address": "0x0Ad64a789fF61c17CDaFb94673E876915979Fb2b",
       "symbol": "mUSDT",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x0Ad64a789fF61c17CDaFb94673E876915979Fb2b.png"
     },
 
 
@@ -39,7 +48,7 @@
       "symbol": "mETH",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/eth.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xfc7EE5A822f81206D66889f23a0C6270343B6dca.png"
     },
     {
       "name": "BNB",
@@ -47,7 +56,7 @@
       "symbol": "mBNB",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/bnb.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x283b1c7a3dAA61bd58cac35a9951F23C94EC9BCb.png"
     },
 
     {
@@ -56,7 +65,7 @@
       "symbol": "mMATIC",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/matic.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x7358218533DBE14C399af25eF0E55374A1A2A146.png"
     }
     
 
