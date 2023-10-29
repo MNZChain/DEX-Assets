@@ -16,11 +16,11 @@
 
     {
       "chainId": 2016,
-      "address": "0xC92F1b614FdC26B658560FD348b277Fdae9E9949",
+      "address": "0xe524CC524113c3f5d2DD807A84BE64BA8A677744",
       "name": "WNETZ",
       "symbol": "WNETZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xC92F1b614FdC26B658560FD348b277Fdae9E9949.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xe524CC524113c3f5d2DD807A84BE64BA8A677744.png"
     },
 
 
@@ -37,28 +37,28 @@
 
     {
       "name": "ETH",
-      "address": "0xDd787C8228BbA938462A6b7874C64488f7a3E741",
+      "address": "0x69EeC817A4666f52cdb4070108236CeDe91baDf0",
       "symbol": "zETH",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xDd787C8228BbA938462A6b7874C64488f7a3E741.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x69EeC817A4666f52cdb4070108236CeDe91baDf0.png"
     },
     {
       "name": "BNB",
-      "address": "0x41c515fA7D541bCbDEfB44f0FE2B1629aec140b9",
+      "address": "0x0e102a96d2E9b42042771738c13f58fE2F7F034E",
       "symbol": "zBNB",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x41c515fA7D541bCbDEfB44f0FE2B1629aec140b9.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x0e102a96d2E9b42042771738c13f58fE2F7F034E.png"
     },
 
     {
       "name": "MATIC",
-      "address": "0x58Aac8E84a9b080c4Dd1b1F8eeCC20bbad0279Ed",
+      "address": "0xd09235da61C257D6095E690F3179dC09f41eda61",
       "symbol": "zMATIC",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x58Aac8E84a9b080c4Dd1b1F8eeCC20bbad0279Ed.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xd09235da61C257D6095E690F3179dC09f41eda61.png"
     }
     
 
