@@ -27,11 +27,11 @@
 
     {
       "name": "USDT",
-      "address": "0xAa58bc69c7BA6A67b1668d5D4d3bf9AA9E5062e4",
+      "address": "0x3a8494096AcD8A2CE6e832dc941E3b090CFa8397",
       "symbol": "zUSDT",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xAa58bc69c7BA6A67b1668d5D4d3bf9AA9E5062e4.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x3a8494096AcD8A2CE6e832dc941E3b090CFa8397.png"
     },
 
 
@@ -45,11 +45,11 @@
     },
     {
       "name": "BNB",
-      "address": "0x0e102a96d2E9b42042771738c13f58fE2F7F034E",
+      "address": "0x7FD38cE75A988C95Cba57977De9C1146EAe69e08",
       "symbol": "zBNB",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x0e102a96d2E9b42042771738c13f58fE2F7F034E.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x7FD38cE75A988C95Cba57977De9C1146EAe69e08.png"
     },
 
     {
