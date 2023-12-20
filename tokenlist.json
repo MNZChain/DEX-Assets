@@ -14,51 +14,52 @@
   ],
   "tokens": [
 
+
     {
       "chainId": 2016,
-      "address": "0xe524cc524113c3f5d2dd807a84be64ba8a677744",
+      "address": "0x41c515fA7D541bCbDEfB44f0FE2B1629aec140b9",
       "name": "WNETZ",
       "symbol": "WNETZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xe524CC524113c3f5d2DD807A84BE64BA8A677744.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x41c515fA7D541bCbDEfB44f0FE2B1629aec140b9.png"
     },
 
 
 
     {
       "name": "USDT",
-      "address": "0x3a8494096acd8a2ce6e832dc941e3b090cfa8397",
+      "address": "0x05Bca12106be17c86EA4B0c0203b6233EFD841D8",
       "symbol": "zUSDT",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x3a8494096AcD8A2CE6e832dc941E3b090CFa8397.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x05Bca12106be17c86EA4B0c0203b6233EFD841D8.png"
     },
 
 
     {
       "name": "ETH",
-      "address": "0x69eec817a4666f52cdb4070108236cede91badf0",
+      "address": "0xD549bBADc1BA280d8A9a0654a7320E81903FcBD2",
       "symbol": "zETH",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x69EeC817A4666f52cdb4070108236CeDe91baDf0.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xD549bBADc1BA280d8A9a0654a7320E81903FcBD2.png"
     },
     {
       "name": "BNB",
-      "address": "0x7fd38ce75a988c95cba57977de9c1146eae69e08",
+      "address": "0x2E29C8ce5114171E22Fd26df6A081e17EeEF32ED",
       "symbol": "zBNB",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x7FD38cE75A988C95Cba57977De9C1146EAe69e08.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x2E29C8ce5114171E22Fd26df6A081e17EeEF32ED.png"
     },
 
     {
       "name": "MATIC",
-      "address": "0xd09235da61c257d6095e690f3179dc09f41eda61",
+      "address": "0x200169bf123504764B9cAa9A858647c57C86A82c",
       "symbol": "zMATIC",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xd09235da61C257D6095E690F3179dC09f41eda61.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x200169bf123504764B9cAa9A858647c57C86A82c.png"
     }
     
 
