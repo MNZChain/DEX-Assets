@@ -25,14 +25,7 @@
 
 
 
-    {
-      "name": "USDT",
-      "address": "0x05Bca12106be17c86EA4B0c0203b6233EFD841D8",
-      "symbol": "zUSDT",
-      "decimals": 18,
-      "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x05Bca12106be17c86EA4B0c0203b6233EFD841D8.png"
-    },
+
 
     {
       "name": "Zodiac Swap Token",
