@@ -34,6 +34,14 @@
       "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x05Bca12106be17c86EA4B0c0203b6233EFD841D8.png"
     },
 
+    {
+      "name": "ZADI",
+      "address": "0x76076908541A6616C000CC8B01Df8eAe57D11810",
+      "symbol": "zUSDT",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x76076908541A6616C000CC8B01Df8eAe57D11810.png"
+    },
 
     {
       "name": "ETH",
