@@ -35,9 +35,9 @@
     },
 
     {
-      "name": "ZADI",
+      "name": "Zodiac Swap Token",
       "address": "0x76076908541A6616C000CC8B01Df8eAe57D11810",
-      "symbol": "zUSDT",
+      "symbol": "ZADI",
       "decimals": 18,
       "chainId": 2016,
       "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x76076908541A6616C000CC8B01Df8eAe57D11810.png"
