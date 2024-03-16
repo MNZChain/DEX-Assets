@@ -9,10 +9,11 @@
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x41c515fA7D541bCbDEfB44f0FE2B1629aec140b9.png",
   "keywords": [
-    "mainnetz",
+    "",
     "default"
   ],
   "tokens": [
+
 
     {
       "chainId": 2016,
@@ -23,15 +24,33 @@
       "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x41c515fA7D541bCbDEfB44f0FE2B1629aec140b9.png"
     },
 
+
+
     {
-      "name": "USDT",
-      "address": "0x4B60E77b2541f40448ADC99B61B1f8A1DeeE85c3",
-      "symbol": "USDT",
+      "name": "ETH",
+      "address": "0xD549bBADc1BA280d8A9a0654a7320E81903FcBD2",
+      "symbol": "zETH",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x4B60E77b2541f40448ADC99B61B1f8A1DeeE85c3.png"
-    }
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xD549bBADc1BA280d8A9a0654a7320E81903FcBD2.png"
+    },
+    {
+      "name": "BNB",
+      "address": "0x2E29C8ce5114171E22Fd26df6A081e17EeEF32ED",
+      "symbol": "zBNB",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x2E29C8ce5114171E22Fd26df6A081e17EeEF32ED.png"
+    },
 
+    {
+      "name": "MATIC",
+      "address": "0x200169bf123504764B9cAa9A858647c57C86A82c",
+      "symbol": "zMATIC",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x200169bf123504764B9cAa9A858647c57C86A82c.png"
+    }
     
 
   ]
