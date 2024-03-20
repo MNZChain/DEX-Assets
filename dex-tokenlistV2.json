@@ -25,11 +25,32 @@
 
     {
       "name": "USDT",
-      "address": "0x4B60E77b2541f40448ADC99B61B1f8A1DeeE85c3",
+      "address":"0x4B60E77b2541f40448ADC99B61B1f8A1DeeE85c3",
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 2016,
       "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x4B60E77b2541f40448ADC99B61B1f8A1DeeE85c3.png"
+    },
+
+
+    {
+      "name": "NetzPad",
+      "address": "0x0aD52eAf4c715dD7Fc137710b93Ce2D16DBb45A8",
+      "symbol": "ZPAD",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x0aD52eAf4c715dD7Fc137710b93Ce2D16DBb45A8.jpeg"
+    },
+
+
+
+    {
+      "name": "PEPEZ",
+      "address": "0x05E196d3b4aB1f2e9d6Cc984f591764AFeD37d00",
+      "symbol": "PEPZ",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x05E196d3b4aB1f2e9d6Cc984f591764AFeD37d00.jpeg"
     }
 
     
