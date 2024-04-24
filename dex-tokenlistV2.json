@@ -51,6 +51,16 @@
       "decimals": 18,
       "chainId": 2016,
       "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x05E196d3b4aB1f2e9d6Cc984f591764AFeD37d00.jpeg"
+    },
+
+
+    {
+      "name": "Netz Finance",
+      "address": "0xb30Cd83BF39CF94Af9d0Fdcc9a5F4c0c60dEBF18",
+      "symbol": "NETZFI",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xb30Cd83BF39CF94Af9d0Fdcc9a5F4c0c60dEBF18.jpeg"
     }
 
     
