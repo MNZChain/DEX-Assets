@@ -1,0 +1,60 @@
+{
+  "name": "Mainnetz LIST",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x41c515fA7D541bCbDEfB44f0FE2B1629aec140b9.png",
+  "keywords": [
+    "",
+    "default"
+  ],
+  "tokens": [
+
+
+    {
+      "chainId": 9768,
+      "address": "0xf6E7129F427aE7E78E870574f16aD4eA36B19d8b",
+      "name": "WNETZ",
+      "symbol": "WNETZ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x41c515fA7D541bCbDEfB44f0FE2B1629aec140b9.png"
+    },
+
+
+
+    {
+      "name": "USDT",
+      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
+      "symbol": "zUSDT",
+      "decimals": 18,
+      "chainId": 9768,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x05Bca12106be17c86EA4B0c0203b6233EFD841D8.png"
+    },
+
+
+    {
+      "name": "ZADI",
+      "address": "0x4B60E77b2541f40448ADC99B61B1f8A1DeeE85c3",
+      "symbol": "ZADI",
+      "decimals": 18,
+      "chainId": 9768,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xD549bBADc1BA280d8A9a0654a7320E81903FcBD2.png"
+    },
+    {
+      "name": "BNB",
+      "address": "0xD7b21500dFf3D5578B21EBf7F25Be806087559a7",
+      "symbol": "zBNB",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x2E29C8ce5114171E22Fd26df6A081e17EeEF32ED.png"
+    }
+
+
+    
+
+  ]
+}
