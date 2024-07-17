@@ -39,7 +39,7 @@
       "symbol": "ZPAD",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x0aD52eAf4c715dD7Fc137710b93Ce2D16DBb45A8.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x0aD52eAf4c715dD7Fc137710b93Ce2D16DBb45A8.png"
     },
 
 
@@ -50,7 +50,7 @@
       "symbol": "PEPZ",
       "decimals": 18,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x05E196d3b4aB1f2e9d6Cc984f591764AFeD37d00.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x05E196d3b4aB1f2e9d6Cc984f591764AFeD37d00.png"
     },
 
 
@@ -60,7 +60,7 @@
       "symbol": "NETZFI",
       "decimals": 9,
       "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xb30Cd83BF39CF94Af9d0Fdcc9a5F4c0c60dEBF18.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xb30Cd83BF39CF94Af9d0Fdcc9a5F4c0c60dEBF18.png"
     }
 
     
