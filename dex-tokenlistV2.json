@@ -61,6 +61,17 @@
       "decimals": 9,
       "chainId": 2016,
       "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xb30Cd83BF39CF94Af9d0Fdcc9a5F4c0c60dEBF18.png"
+    },
+
+
+
+    {
+      "name": "ZINU",
+      "address": "0x322eD5c386Ae1b3ba77dd4188250e46F581f6C2C",
+      "symbol": "ZINU",
+      "decimals": 9,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x322eD5c386Ae1b3ba77dd4188250e46F581f6C2C.png"
     }
 
     
